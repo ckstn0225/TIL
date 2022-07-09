@@ -1,0 +1,13 @@
+1. Git 과 Github, sourcetree 사용법과 정의를 배웠다!
+
+2. 배운 것들 키워드를 이용하여 개념을 한번더 정리하자!
+
+- 버전 관리
+- git 초기화 (initialize, init)
+- add / staging
+- commit (커밋)
+- commit 내역(history)
+- push
+- pull
+- clone
+- tracking
